@@ -1,0 +1,14 @@
+Final: Master
+
+Master: main1.o Server.o
+	g++ main1.o Server.o -o Master
+
+main1.o: main1.cpp
+	g++ -c main1.cpp
+
+Server.o: Server.cpp
+	g++ -c Server.cpp
+
+clean:
+	rm -rf *o  Master
+

@@ -1,0 +1,14 @@
+Final: myClient
+
+myClient: main.o Client.o
+	g++ main.o Client.o -o myClient
+
+main.o: main.cpp
+	g++ -c main.cpp
+
+Client.o: Client.cpp
+	g++ -c Client.cpp
+
+clean:
+	rm -rf *o  myClient
+

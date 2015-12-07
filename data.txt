@@ -1,0 +1,1320 @@
+Bytes Read: 170
+ Time Taken: -167931.000000
+ HTTP: 1.000000
+Bytes Read: 340
+ Time Taken: 102.000000
+ HTTP: 1.000000
+Bytes Read: 680
+ Time Taken: 104.000000
+ HTTP: 1.000000
+Bytes Read: 510
+ Time Taken: 103.000000
+ HTTP: 1.000000
+Bytes Read: 850
+ Time Taken: 103.000000
+ HTTP: 1.000000
+Bytes Read: 1020
+ Time Taken: 69.000000
+ HTTP: 1.000000
+Bytes Read: 1190
+ Time Taken: 77.000000
+ HTTP: 1.000000
+Bytes Read: 1360
+ Time Taken: 78.000000
+ HTTP: 1.000000
+Bytes Read: 1530
+ Time Taken: 107.000000
+ HTTP: 1.000000
+Bytes Read: 1700
+ Time Taken: 115.000000
+ HTTP: 1.000000
+Bytes Read: 1870
+ Time Taken: 126.000000
+ HTTP: 1.000000
+Bytes Read: 2040
+ Time Taken: 128.000000
+ HTTP: 1.000000
+Bytes Read: 2210
+ Time Taken: 142.000000
+ HTTP: 1.000000
+Bytes Read: 2380
+ Time Taken: 141.000000
+ HTTP: 1.000000
+Bytes Read: 2550
+ Time Taken: 146.000000
+ HTTP: 1.000000
+Bytes Read: 2720
+ Time Taken: 150.000000
+ HTTP: 1.000000
+Bytes Read: 3230
+ Time Taken: 155.000000
+ HTTP: 1.000000
+Bytes Read: 3230
+ Time Taken: 155.000000
+ HTTP: 1.000000
+Bytes Read: 3230
+ Time Taken: 155.000000
+ HTTP: 1.000000
+Bytes Read: 3570
+ Time Taken: 162.000000
+ HTTP: 1.000000
+Bytes Read: 3740
+ Time Taken: 162.000000
+ HTTP: 1.000000
+Bytes Read: 3570
+ Time Taken: 164.000000
+ HTTP: 1.000000
+Bytes Read: 3910
+ Time Taken: 164.000000
+ HTTP: 1.000000
+Bytes Read: 4080
+ Time Taken: 167.000000
+ HTTP: 1.000000
+Bytes Read: 4250
+ Time Taken: 73.000000
+ HTTP: 1.000000
+Bytes Read: 4420
+ Time Taken: 90.000000
+ HTTP: 1.000000
+Bytes Read: 4760
+ Time Taken: 105.000000
+ HTTP: 1.000000
+Bytes Read: 4760
+ Time Taken: 105.000000
+ HTTP: 1.000000
+Bytes Read: 4930
+ Time Taken: 118.000000
+ HTTP: 1.000000
+Bytes Read: 5100
+ Time Taken: 124.000000
+ HTTP: 1.000000
+Bytes Read: 5270
+ Time Taken: 125.000000
+ HTTP: 1.000000
+Bytes Read: 5440
+ Time Taken: 140.000000
+ HTTP: 1.000000
+Bytes Read: 5780
+ Time Taken: 147.000000
+ HTTP: 1.000000
+Bytes Read: 5780
+ Time Taken: 147.000000
+ HTTP: 1.000000
+Bytes Read: 6120
+ Time Taken: 154.000000
+ HTTP: 1.000000
+Bytes Read: 6120
+ Time Taken: 154.000000
+ HTTP: 1.000000
+Bytes Read: 6970
+ Time Taken: 168.000000
+ HTTP: 1.000000
+Bytes Read: 6800
+ Time Taken: 181.000000
+ HTTP: 1.000000
+Bytes Read: 7310
+ Time Taken: 183.000000
+ HTTP: 1.000000
+Bytes Read: 6630
+ Time Taken: 181.000000
+ HTTP: 1.000000
+Bytes Read: 6800
+ Time Taken: 181.000000
+ HTTP: 1.000000
+Bytes Read: 6800
+ Time Taken: 181.000000
+ HTTP: 1.000000
+Bytes Read: 7310
+ Time Taken: 183.000000
+ HTTP: 1.000000
+Bytes Read: 7480
+ Time Taken: 56.000000
+ HTTP: 1.000000
+Bytes Read: 7650
+ Time Taken: 110.000000
+ HTTP: 1.000000
+Bytes Read: 7820
+ Time Taken: 111.000000
+ HTTP: 1.000000
+Bytes Read: 7990
+ Time Taken: 126.000000
+ HTTP: 1.000000
+Bytes Read: 8330
+ Time Taken: 138.000000
+ HTTP: 1.000000
+Bytes Read: 8330
+ Time Taken: 137.000000
+ HTTP: 1.000000
+Bytes Read: 8500
+ Time Taken: 142.000000
+ HTTP: 1.000000
+Bytes Read: 8670
+ Time Taken: 146.000000
+ HTTP: 1.000000
+Bytes Read: 8840
+ Time Taken: 150.000000
+ HTTP: 1.000000
+Bytes Read: 9180
+ Time Taken: 172.000000
+ HTTP: 1.000000
+Bytes Read: 9010
+ Time Taken: 178.000000
+ HTTP: 1.000000
+Bytes Read: 9520
+ Time Taken: 189.000000
+ HTTP: 1.000000
+Bytes Read: 10030
+ Time Taken: 189.000000
+ HTTP: 1.000000
+Bytes Read: 10540
+ Time Taken: 191.000000
+ HTTP: 1.000000
+Bytes Read: 10540
+ Time Taken: 192.000000
+ HTTP: 1.000000
+Bytes Read: 9860
+ Time Taken: 191.000000
+ HTTP: 1.000000
+Bytes Read: 10370
+ Time Taken: 191.000000
+ HTTP: 1.000000
+Bytes Read: 9690
+ Time Taken: 191.000000
+ HTTP: 1.000000
+Bytes Read: 10370
+ Time Taken: 191.000000
+ HTTP: 1.000000
+Bytes Read: 10710
+ Time Taken: 159.000000
+ HTTP: 1.000000
+Bytes Read: 10880
+ Time Taken: 168.000000
+ HTTP: 1.000000
+Bytes Read: 11050
+ Time Taken: 173.000000
+ HTTP: 1.000000
+Bytes Read: 11220
+ Time Taken: 177.000000
+ HTTP: 1.000000
+Bytes Read: 11390
+ Time Taken: 185.000000
+ HTTP: 1.000000
+Bytes Read: 11560
+ Time Taken: 187.000000
+ HTTP: 1.000000
+Bytes Read: 11730
+ Time Taken: 192.000000
+ HTTP: 1.000000
+Bytes Read: 11900
+ Time Taken: 206.000000
+ HTTP: 1.000000
+Bytes Read: 12240
+ Time Taken: -770.000000
+ HTTP: 1.000000
+Bytes Read: 12240
+ Time Taken: -773.000000
+ HTTP: 1.000000
+Bytes Read: 13430
+ Time Taken: -761.000000
+ HTTP: 1.000000
+Bytes Read: 12410
+ Time Taken: -759.000000
+ HTTP: 1.000000
+Bytes Read: 12750
+ Time Taken: -754.000000
+ HTTP: 1.000000
+Bytes Read: 13430
+ Time Taken: -755.000000
+ HTTP: 1.000000
+Bytes Read: 13770
+ Time Taken: -753.000000
+ HTTP: 1.000000
+Bytes Read: 13430
+ Time Taken: -754.000000
+ HTTP: 1.000000
+Bytes Read: 14110
+ Time Taken: -750.000000
+ HTTP: 1.000000
+Bytes Read: 13430
+ Time Taken: -756.000000
+ HTTP: 1.000000
+Bytes Read: 13430
+ Time Taken: -754.000000
+ HTTP: 1.000000
+Bytes Read: 14110
+ Time Taken: -756.000000
+ HTTP: 1.000000
+Bytes Read: 14790
+ Time Taken: -741.000000
+ HTTP: 1.000000
+Bytes Read: 15470
+ Time Taken: -735.000000
+ HTTP: 1.000000
+Bytes Read: 14280
+ Time Taken: -738.000000
+ HTTP: 1.000000
+Bytes Read: 15130
+ Time Taken: -738.000000
+ HTTP: 1.000000
+Bytes Read: 15130
+ Time Taken: -737.000000
+ HTTP: 1.000000
+Bytes Read: 14620
+ Time Taken: -737.000000
+ HTTP: 1.000000
+Bytes Read: 15470
+ Time Taken: -736.000000
+ HTTP: 1.000000
+Bytes Read: 15130
+ Time Taken: -739.000000
+ HTTP: 1.000000
+Bytes Read: 15130
+ Time Taken: -738.000000
+ HTTP: 1.000000
+Bytes Read: 510
+ Time Taken: 111.000000
+ HTTP: 1.000000
+Bytes Read: 510
+ Time Taken: 112.000000
+ HTTP: 1.000000
+Bytes Read: 680
+ Time Taken: 139.000000
+ HTTP: 1.000000
+Bytes Read: 850
+ Time Taken: 147.000000
+ HTTP: 1.000000
+Bytes Read: 1020
+ Time Taken: 155.000000
+ HTTP: 1.000000
+Bytes Read: 1190
+ Time Taken: 163.000000
+ HTTP: 1.000000
+Bytes Read: 1360
+ Time Taken: 169.000000
+ HTTP: 1.000000
+Bytes Read: 1530
+ Time Taken: 174.000000
+ HTTP: 1.000000
+Bytes Read: 1700
+ Time Taken: 182.000000
+ HTTP: 1.000000
+Bytes Read: 1870
+ Time Taken: 185.000000
+ HTTP: 1.000000
+Bytes Read: 2040
+ Time Taken: 195.000000
+ HTTP: 1.000000
+Bytes Read: 2210
+ Time Taken: 203.000000
+ HTTP: 1.000000
+Bytes Read: 2380
+ Time Taken: 210.000000
+ HTTP: 1.000000
+Bytes Read: 2550
+ Time Taken: 219.000000
+ HTTP: 1.000000
+Bytes Read: 2720
+ Time Taken: 225.000000
+ HTTP: 1.000000
+Bytes Read: 2890
+ Time Taken: 232.000000
+ HTTP: 1.000000
+Bytes Read: 3400
+ Time Taken: 236.000000
+ HTTP: 1.000000
+Bytes Read: 3230
+ Time Taken: 241.000000
+ HTTP: 1.000000
+Bytes Read: 4420
+ Time Taken: 256.000000
+ HTTP: 1.000000
+Bytes Read: 4420
+ Time Taken: 260.000000
+ HTTP: 1.000000
+Bytes Read: 4930
+ Time Taken: 264.000000
+ HTTP: 1.000000
+Bytes Read: 4930
+ Time Taken: 260.000000
+ HTTP: 1.000000
+Bytes Read: 4080
+ Time Taken: 260.000000
+ HTTP: 1.000000
+Bytes Read: 4080
+ Time Taken: 264.000000
+ HTTP: 1.000000
+Bytes Read: 4420
+ Time Taken: 263.000000
+ HTTP: 1.000000
+Bytes Read: 5100
+ Time Taken: 262.000000
+ HTTP: 1.000000
+Bytes Read: 4930
+ Time Taken: 257.000000
+ HTTP: 1.000000
+Bytes Read: 4590
+ Time Taken: 261.000000
+ HTTP: 1.000000
+Bytes Read: 4080
+ Time Taken: 264.000000
+ HTTP: 1.000000
+Bytes Read: 5270
+ Time Taken: 51.000000
+ HTTP: 1.000000
+Bytes Read: 5440
+ Time Taken: 105.000000
+ HTTP: 1.000000
+Bytes Read: 5610
+ Time Taken: 125.000000
+ HTTP: 1.000000
+Bytes Read: 5780
+ Time Taken: 137.000000
+ HTTP: 1.000000
+Bytes Read: 5950
+ Time Taken: 140.000000
+ HTTP: 1.000000
+Bytes Read: 6120
+ Time Taken: 145.000000
+ HTTP: 1.000000
+Bytes Read: 6290
+ Time Taken: 149.000000
+ HTTP: 1.000000
+Bytes Read: 6460
+ Time Taken: -831.000000
+ HTTP: 1.000000
+Bytes Read: 6630
+ Time Taken: -827.000000
+ HTTP: 1.000000
+Bytes Read: 6800
+ Time Taken: -818.000000
+ HTTP: 1.000000
+Bytes Read: 6970
+ Time Taken: -802.000000
+ HTTP: 1.000000
+Bytes Read: 7310
+ Time Taken: -792.000000
+ HTTP: 1.000000
+Bytes Read: 7820
+ Time Taken: -792.000000
+ HTTP: 1.000000
+Bytes Read: 7820
+ Time Taken: -790.000000
+ HTTP: 1.000000
+Bytes Read: 7990
+ Time Taken: -788.000000
+ HTTP: 1.000000
+Bytes Read: 8330
+ Time Taken: -782.000000
+ HTTP: 1.000000
+Bytes Read: 7820
+ Time Taken: -792.000000
+ HTTP: 1.000000
+Bytes Read: 8330
+ Time Taken: -782.000000
+ HTTP: 1.000000
+Bytes Read: 7820
+ Time Taken: -790.000000
+ HTTP: 1.000000
+Bytes Read: 8500
+ Time Taken: -780.000000
+ HTTP: 1.000000
+Bytes Read: 8670
+ Time Taken: -773.000000
+ HTTP: 1.000000
+Bytes Read: 8840
+ Time Taken: -768.000000
+ HTTP: 1.000000
+Bytes Read: 9690
+ Time Taken: -760.000000
+ HTTP: 1.000000
+Bytes Read: 9520
+ Time Taken: -752.000000
+ HTTP: 1.000000
+Bytes Read: 9520
+ Time Taken: -753.000000
+ HTTP: 1.000000
+Bytes Read: 9520
+ Time Taken: -752.000000
+ HTTP: 1.000000
+Bytes Read: 9690
+ Time Taken: -752.000000
+ HTTP: 1.000000
+Bytes Read: 10030
+ Time Taken: -754.000000
+ HTTP: 1.000000
+Bytes Read: 10030
+ Time Taken: -752.000000
+ HTTP: 1.000000
+Bytes Read: 10200
+ Time Taken: 24.000000
+ HTTP: 1.000000
+Bytes Read: 10370
+ Time Taken: 55.000000
+ HTTP: 1.000000
+Bytes Read: 10540
+ Time Taken: 65.000000
+ HTTP: 1.000000
+Bytes Read: 10710
+ Time Taken: 109.000000
+ HTTP: 1.000000
+Bytes Read: 10880
+ Time Taken: 150.000000
+ HTTP: 1.000000
+Bytes Read: 11050
+ Time Taken: 165.000000
+ HTTP: 1.000000
+Bytes Read: 11220
+ Time Taken: 176.000000
+ HTTP: 1.000000
+Bytes Read: 11390
+ Time Taken: 186.000000
+ HTTP: 1.000000
+Bytes Read: 11560
+ Time Taken: 191.000000
+ HTTP: 1.000000
+Bytes Read: 11730
+ Time Taken: 196.000000
+ HTTP: 1.000000
+Bytes Read: 11900
+ Time Taken: 204.000000
+ HTTP: 1.000000
+Bytes Read: 12070
+ Time Taken: 212.000000
+ HTTP: 1.000000
+Bytes Read: 12240
+ Time Taken: 220.000000
+ HTTP: 1.000000
+Bytes Read: 12410
+ Time Taken: 223.000000
+ HTTP: 1.000000
+Bytes Read: 12580
+ Time Taken: 229.000000
+ HTTP: 1.000000
+Bytes Read: 12750
+ Time Taken: 228.000000
+ HTTP: 1.000000
+Bytes Read: 12920
+ Time Taken: 232.000000
+ HTTP: 1.000000
+Bytes Read: 13090
+ Time Taken: 236.000000
+ HTTP: 1.000000
+Bytes Read: 13430
+ Time Taken: -757.000000
+ HTTP: 1.000000
+Bytes Read: 13770
+ Time Taken: -751.000000
+ HTTP: 1.000000
+Bytes Read: 14280
+ Time Taken: -749.000000
+ HTTP: 1.000000
+Bytes Read: 13770
+ Time Taken: -748.000000
+ HTTP: 1.000000
+Bytes Read: 13770
+ Time Taken: -749.000000
+ HTTP: 1.000000
+Bytes Read: 14280
+ Time Taken: -738.000000
+ HTTP: 1.000000
+Bytes Read: 14280
+ Time Taken: -739.000000
+ HTTP: 1.000000
+Bytes Read: 14790
+ Time Taken: -738.000000
+ HTTP: 1.000000
+Bytes Read: 14790
+ Time Taken: -738.000000
+ HTTP: 1.000000
+Bytes Read: 14960
+ Time Taken: -736.000000
+ HTTP: 1.000000
+Bytes Read: 14960
+ Time Taken: -737.000000
+ HTTP: 1.000000
+Bytes Read: 15130
+ Time Taken: 75.000000
+ HTTP: 1.000000
+Bytes Read: 15300
+ Time Taken: 114.000000
+ HTTP: 1.000000
+Bytes Read: 15470
+ Time Taken: 119.000000
+ HTTP: 1.000000
+Bytes Read: 15640
+ Time Taken: 120.000000
+ HTTP: 1.000000
+Bytes Read: 15810
+ Time Taken: 135.000000
+ HTTP: 1.000000
+Bytes Read: 15980
+ Time Taken: 145.000000
+ HTTP: 1.000000
+Bytes Read: 16150
+ Time Taken: 158.000000
+ HTTP: 1.000000
+Bytes Read: 16320
+ Time Taken: 177.000000
+ HTTP: 1.000000
+Bytes Read: 17340
+ Time Taken: 202.000000
+ HTTP: 1.000000
+Bytes Read: 17340
+ Time Taken: 203.000000
+ HTTP: 1.000000
+Bytes Read: 17340
+ Time Taken: 202.000000
+ HTTP: 1.000000
+Bytes Read: 17510
+ Time Taken: 204.000000
+ HTTP: 1.000000
+Bytes Read: 17170
+ Time Taken: 201.000000
+ HTTP: 1.000000
+Bytes Read: 17000
+ Time Taken: 202.000000
+ HTTP: 1.000000
+Bytes Read: 16660
+ Time Taken: 202.000000
+ HTTP: 1.000000
+Bytes Read: 17680
+ Time Taken: 216.000000
+ HTTP: 1.000000
+Bytes Read: 18020
+ Time Taken: 218.000000
+ HTTP: 1.000000
+Bytes Read: 18020
+ Time Taken: 220.000000
+ HTTP: 1.000000
+Bytes Read: 18190
+ Time Taken: 222.000000
+ HTTP: 1.000000
+Bytes Read: 18360
+ Time Taken: 225.000000
+ HTTP: 1.000000
+Bytes Read: 18530
+ Time Taken: 226.000000
+ HTTP: 1.000000
+Bytes Read: 19040
+ Time Taken: 236.000000
+ HTTP: 1.000000
+Bytes Read: 18870
+ Time Taken: 239.000000
+ HTTP: 1.000000
+Bytes Read: 19720
+ Time Taken: 247.000000
+ HTTP: 1.000000
+Bytes Read: 19720
+ Time Taken: 245.000000
+ HTTP: 1.000000
+Bytes Read: 19720
+ Time Taken: 248.000000
+ HTTP: 1.000000
+Bytes Read: 19720
+ Time Taken: 248.000000
+ HTTP: 1.000000
+Bytes Read: 19720
+ Time Taken: 244.000000
+ HTTP: 1.000000
+Bytes Read: 19890
+ Time Taken: 247.000000
+ HTTP: 1.000000
+Bytes Read: 20060
+ Time Taken: 66.000000
+ HTTP: 1.000000
+Bytes Read: 20230
+ Time Taken: 112.000000
+ HTTP: 1.000000
+Bytes Read: 20400
+ Time Taken: 119.000000
+ HTTP: 1.000000
+Bytes Read: 20570
+ Time Taken: 136.000000
+ HTTP: 1.000000
+Bytes Read: 20740
+ Time Taken: -852.000000
+ HTTP: 1.000000
+Bytes Read: 20910
+ Time Taken: -842.000000
+ HTTP: 1.000000
+Bytes Read: 21080
+ Time Taken: -837.000000
+ HTTP: 1.000000
+Bytes Read: 21250
+ Time Taken: -827.000000
+ HTTP: 1.000000
+Bytes Read: 21420
+ Time Taken: -818.000000
+ HTTP: 1.000000
+Bytes Read: 21590
+ Time Taken: -810.000000
+ HTTP: 1.000000
+Bytes Read: 21760
+ Time Taken: -809.000000
+ HTTP: 1.000000
+Bytes Read: 21930
+ Time Taken: -801.000000
+ HTTP: 1.000000
+Bytes Read: 22100
+ Time Taken: -795.000000
+ HTTP: 1.000000
+Bytes Read: 22270
+ Time Taken: -793.000000
+ HTTP: 1.000000
+Bytes Read: 22440
+ Time Taken: -789.000000
+ HTTP: 1.000000
+Bytes Read: 22610
+ Time Taken: -784.000000
+ HTTP: 1.000000
+Bytes Read: 22950
+ Time Taken: -785.000000
+ HTTP: 1.000000
+Bytes Read: 22950
+ Time Taken: -782.000000
+ HTTP: 1.000000
+Bytes Read: 23290
+ Time Taken: -776.000000
+ HTTP: 1.000000
+Bytes Read: 23290
+ Time Taken: -776.000000
+ HTTP: 1.000000
+Bytes Read: 23460
+ Time Taken: -772.000000
+ HTTP: 1.000000
+Bytes Read: 23630
+ Time Taken: -758.000000
+ HTTP: 1.000000
+Bytes Read: 24310
+ Time Taken: -747.000000
+ HTTP: 1.000000
+Bytes Read: 24310
+ Time Taken: -722.000000
+ HTTP: 1.000000
+Bytes Read: 23970
+ Time Taken: -723.000000
+ HTTP: 1.000000
+Bytes Read: 24650
+ Time Taken: -722.000000
+ HTTP: 1.000000
+Bytes Read: 24310
+ Time Taken: -722.000000
+ HTTP: 1.000000
+Bytes Read: 24820
+ Time Taken: -723.000000
+ HTTP: 1.000000
+Bytes Read: 24820
+ Time Taken: -722.000000
+ HTTP: 1.000000
+Bytes Read: 24990
+ Time Taken: 56.000000
+ HTTP: 1.000000
+Bytes Read: 25160
+ Time Taken: 78.000000
+ HTTP: 1.000000
+Bytes Read: 25330
+ Time Taken: 112.000000
+ HTTP: 1.000000
+Bytes Read: 25500
+ Time Taken: 145.000000
+ HTTP: 1.000000
+Bytes Read: 25670
+ Time Taken: 148.000000
+ HTTP: 1.000000
+Bytes Read: 25840
+ Time Taken: 156.000000
+ HTTP: 1.000000
+Bytes Read: 26010
+ Time Taken: 165.000000
+ HTTP: 1.000000
+Bytes Read: 26180
+ Time Taken: 172.000000
+ HTTP: 1.000000
+Bytes Read: 26350
+ Time Taken: 168.000000
+ HTTP: 1.000000
+Bytes Read: 26520
+ Time Taken: 186.000000
+ HTTP: 1.000000
+Bytes Read: 26690
+ Time Taken: 199.000000
+ HTTP: 1.000000
+Bytes Read: 26860
+ Time Taken: 203.000000
+ HTTP: 1.000000
+Bytes Read: 27030
+ Time Taken: 207.000000
+ HTTP: 1.000000
+Bytes Read: 27370
+ Time Taken: 212.000000
+ HTTP: 1.000000
+Bytes Read: 27370
+ Time Taken: 214.000000
+ HTTP: 1.000000
+Bytes Read: 27540
+ Time Taken: 226.000000
+ HTTP: 1.000000
+Bytes Read: 27880
+ Time Taken: 225.000000
+ HTTP: 1.000000
+Bytes Read: 27710
+ Time Taken: 223.000000
+ HTTP: 1.000000
+Bytes Read: 28730
+ Time Taken: 237.000000
+ HTTP: 1.000000
+Bytes Read: 29070
+ Time Taken: 240.000000
+ HTTP: 1.000000
+Bytes Read: 28220
+ Time Taken: 243.000000
+ HTTP: 1.000000
+Bytes Read: 28560
+ Time Taken: 244.000000
+ HTTP: 1.000000
+Bytes Read: 28560
+ Time Taken: 243.000000
+ HTTP: 1.000000
+Bytes Read: 29070
+ Time Taken: 249.000000
+ HTTP: 1.000000
+Bytes Read: 29750
+ Time Taken: 250.000000
+ HTTP: 1.000000
+Bytes Read: 29240
+ Time Taken: 253.000000
+ HTTP: 1.000000
+Bytes Read: 29750
+ Time Taken: 252.000000
+ HTTP: 1.000000
+Bytes Read: 29410
+ Time Taken: 250.000000
+ HTTP: 1.000000
+Bytes Read: 29580
+ Time Taken: 251.000000
+ HTTP: 1.000000
+Bytes Read: 29920
+ Time Taken: 90.000000
+ HTTP: 1.000000
+Bytes Read: 30090
+ Time Taken: 99.000000
+ HTTP: 1.000000
+Bytes Read: 30260
+ Time Taken: 131.000000
+ HTTP: 1.000000
+Bytes Read: 30430
+ Time Taken: 142.000000
+ HTTP: 1.000000
+Bytes Read: 30600
+ Time Taken: 155.000000
+ HTTP: 1.000000
+Bytes Read: 30770
+ Time Taken: 160.000000
+ HTTP: 1.000000
+Bytes Read: 30940
+ Time Taken: 165.000000
+ HTTP: 1.000000
+Bytes Read: 31110
+ Time Taken: 178.000000
+ HTTP: 1.000000
+Bytes Read: 31280
+ Time Taken: 181.000000
+ HTTP: 1.000000
+Bytes Read: 31450
+ Time Taken: 185.000000
+ HTTP: 1.000000
+Bytes Read: 31620
+ Time Taken: 196.000000
+ HTTP: 1.000000
+Bytes Read: 31790
+ Time Taken: 201.000000
+ HTTP: 1.000000
+Bytes Read: 31960
+ Time Taken: 205.000000
+ HTTP: 1.000000
+Bytes Read: 32130
+ Time Taken: 218.000000
+ HTTP: 1.000000
+Bytes Read: 32300
+ Time Taken: 223.000000
+ HTTP: 1.000000
+Bytes Read: 32810
+ Time Taken: 233.000000
+ HTTP: 1.000000
+Bytes Read: 32810
+ Time Taken: 235.000000
+ HTTP: 1.000000
+Bytes Read: 32810
+ Time Taken: 235.000000
+ HTTP: 1.000000
+Bytes Read: 33320
+ Time Taken: 242.000000
+ HTTP: 1.000000
+Bytes Read: 33320
+ Time Taken: 243.000000
+ HTTP: 1.000000
+Bytes Read: 34000
+ Time Taken: 249.000000
+ HTTP: 1.000000
+Bytes Read: 34510
+ Time Taken: 246.000000
+ HTTP: 1.000000
+Bytes Read: 34000
+ Time Taken: 247.000000
+ HTTP: 1.000000
+Bytes Read: 34000
+ Time Taken: 247.000000
+ HTTP: 1.000000
+Bytes Read: 34510
+ Time Taken: 249.000000
+ HTTP: 1.000000
+Bytes Read: 34000
+ Time Taken: 246.000000
+ HTTP: 1.000000
+Bytes Read: 34510
+ Time Taken: 246.000000
+ HTTP: 1.000000
+Bytes Read: 34680
+ Time Taken: 247.000000
+ HTTP: 1.000000
+Bytes Read: 34170
+ Time Taken: 250.000000
+ HTTP: 1.000000
+Bytes Read: 35020
+ Time Taken: 102.000000
+ HTTP: 1.000000
+Bytes Read: 35190
+ Time Taken: 103.000000
+ HTTP: 1.000000
+Bytes Read: 35190
+ Time Taken: 105.000000
+ HTTP: 1.000000
+Bytes Read: 35360
+ Time Taken: 118.000000
+ HTTP: 1.000000
+Bytes Read: 35530
+ Time Taken: 130.000000
+ HTTP: 1.000000
+Bytes Read: 35700
+ Time Taken: 138.000000
+ HTTP: 1.000000
+Bytes Read: 35870
+ Time Taken: 152.000000
+ HTTP: 1.000000
+Bytes Read: 36040
+ Time Taken: 177.000000
+ HTTP: 1.000000
+Bytes Read: 36210
+ Time Taken: 177.000000
+ HTTP: 1.000000
+Bytes Read: 36380
+ Time Taken: 195.000000
+ HTTP: 1.000000
+Bytes Read: 36550
+ Time Taken: 207.000000
+ HTTP: 1.000000
+Bytes Read: 36720
+ Time Taken: 208.000000
+ HTTP: 1.000000
+Bytes Read: 36890
+ Time Taken: 207.000000
+ HTTP: 1.000000
+Bytes Read: 37570
+ Time Taken: 214.000000
+ HTTP: 1.000000
+Bytes Read: 37910
+ Time Taken: 220.000000
+ HTTP: 1.000000
+Bytes Read: 38080
+ Time Taken: 222.000000
+ HTTP: 1.000000
+Bytes Read: 38080
+ Time Taken: 220.000000
+ HTTP: 1.000000
+Bytes Read: 38080
+ Time Taken: 221.000000
+ HTTP: 1.000000
+Bytes Read: 38080
+ Time Taken: 220.000000
+ HTTP: 1.000000
+Bytes Read: 38080
+ Time Taken: 220.000000
+ HTTP: 1.000000
+Bytes Read: 39270
+ Time Taken: 236.000000
+ HTTP: 1.000000
+Bytes Read: 39270
+ Time Taken: 247.000000
+ HTTP: 1.000000
+Bytes Read: 39440
+ Time Taken: 246.000000
+ HTTP: 1.000000
+Bytes Read: 39440
+ Time Taken: 247.000000
+ HTTP: 1.000000
+Bytes Read: 38930
+ Time Taken: 248.000000
+ HTTP: 1.000000
+Bytes Read: 39610
+ Time Taken: 248.000000
+ HTTP: 1.000000
+Bytes Read: 39610
+ Time Taken: 249.000000
+ HTTP: 1.000000
+Bytes Read: 39270
+ Time Taken: 245.000000
+ HTTP: 1.000000
+Bytes Read: 39270
+ Time Taken: 248.000000
+ HTTP: 1.000000
+Bytes Read: 39610
+ Time Taken: 1.000000
+ HTTP: 1.000000
+Bytes Read: 39780
+ Time Taken: 57.000000
+ HTTP: 1.000000
+Bytes Read: 39950
+ Time Taken: 61.000000
+ HTTP: 1.000000
+Bytes Read: 40120
+ Time Taken: 74.000000
+ HTTP: 1.000000
+Bytes Read: 40290
+ Time Taken: 140.000000
+ HTTP: 1.000000
+Bytes Read: 40460
+ Time Taken: 164.000000
+ HTTP: 1.000000
+Bytes Read: 40630
+ Time Taken: 171.000000
+ HTTP: 1.000000
+Bytes Read: 40800
+ Time Taken: 183.000000
+ HTTP: 1.000000
+Bytes Read: 40970
+ Time Taken: 184.000000
+ HTTP: 1.000000
+Bytes Read: 41140
+ Time Taken: 188.000000
+ HTTP: 1.000000
+Bytes Read: 41310
+ Time Taken: 186.000000
+ HTTP: 1.000000
+Bytes Read: 41480
+ Time Taken: 194.000000
+ HTTP: 1.000000
+Bytes Read: 41820
+ Time Taken: 206.000000
+ HTTP: 1.000000
+Bytes Read: 41650
+ Time Taken: 208.000000
+ HTTP: 1.000000
+Bytes Read: 42160
+ Time Taken: 214.000000
+ HTTP: 1.000000
+Bytes Read: 42160
+ Time Taken: 213.000000
+ HTTP: 1.000000
+Bytes Read: 42330
+ Time Taken: 219.000000
+ HTTP: 1.000000
+Bytes Read: 42670
+ Time Taken: 223.000000
+ HTTP: 1.000000
+Bytes Read: 42670
+ Time Taken: 226.000000
+ HTTP: 1.000000
+Bytes Read: 43010
+ Time Taken: 234.000000
+ HTTP: 1.000000
+Bytes Read: 43010
+ Time Taken: 234.000000
+ HTTP: 1.000000
+Bytes Read: 43180
+ Time Taken: 238.000000
+ HTTP: 1.000000
+Bytes Read: 43690
+ Time Taken: 239.000000
+ HTTP: 1.000000
+Bytes Read: 43350
+ Time Taken: 244.000000
+ HTTP: 1.000000
+Bytes Read: 43690
+ Time Taken: 254.000000
+ HTTP: 1.000000
+Bytes Read: 44540
+ Time Taken: 257.000000
+ HTTP: 1.000000
+Bytes Read: 44370
+ Time Taken: 258.000000
+ HTTP: 1.000000
+Bytes Read: 44200
+ Time Taken: 258.000000
+ HTTP: 1.000000
+Bytes Read: 44540
+ Time Taken: 256.000000
+ HTTP: 1.000000
+Bytes Read: 44200
+ Time Taken: 258.000000
+ HTTP: 1.000000
+Bytes Read: 44711
+ Time Taken: 74.000000
+ HTTP: 1.000000
+Bytes Read: 44882
+ Time Taken: 81.000000
+ HTTP: 1.000000
+Bytes Read: 45224
+ Time Taken: 118.000000
+ HTTP: 1.000000
+Bytes Read: 45395
+ Time Taken: 140.000000
+ HTTP: 1.000000
+Bytes Read: 45395
+ Time Taken: 141.000000
+ HTTP: 1.000000
+Bytes Read: 45737
+ Time Taken: 146.000000
+ HTTP: 1.000000
+Bytes Read: 45737
+ Time Taken: 144.000000
+ HTTP: 1.000000
+Bytes Read: 45908
+ Time Taken: 155.000000
+ HTTP: 1.000000
+Bytes Read: 46079
+ Time Taken: 164.000000
+ HTTP: 1.000000
+Bytes Read: 46250
+ Time Taken: 173.000000
+ HTTP: 1.000000
+Bytes Read: 46421
+ Time Taken: 183.000000
+ HTTP: 1.000000
+Bytes Read: 46592
+ Time Taken: 192.000000
+ HTTP: 1.000000
+Bytes Read: 46763
+ Time Taken: 198.000000
+ HTTP: 1.000000
+Bytes Read: 46934
+ Time Taken: 209.000000
+ HTTP: 1.000000
+Bytes Read: 47276
+ Time Taken: 211.000000
+ HTTP: 1.000000
+Bytes Read: 47276
+ Time Taken: 214.000000
+ HTTP: 1.000000
+Bytes Read: 47618
+ Time Taken: 216.000000
+ HTTP: 1.000000
+Bytes Read: 47618
+ Time Taken: 222.000000
+ HTTP: 1.000000
+Bytes Read: 47789
+ Time Taken: 224.000000
+ HTTP: 1.000000
+Bytes Read: 47960
+ Time Taken: 226.000000
+ HTTP: 1.000000
+Bytes Read: 48302
+ Time Taken: 237.000000
+ HTTP: 1.000000
+Bytes Read: 48644
+ Time Taken: 286.000000
+ HTTP: 1.000000
+Bytes Read: 48986
+ Time Taken: 291.000000
+ HTTP: 1.000000
+Bytes Read: 49157
+ Time Taken: 294.000000
+ HTTP: 1.000000
+Bytes Read: 49328
+ Time Taken: 295.000000
+ HTTP: 1.000000
+Bytes Read: 49328
+ Time Taken: 294.000000
+ HTTP: 1.000000
+Bytes Read: 49499
+ Time Taken: 297.000000
+ HTTP: 1.000000
+Bytes Read: 49499
+ Time Taken: 298.000000
+ HTTP: 1.000000
+Bytes Read: 49499
+ Time Taken: 298.000000
+ HTTP: 1.000000
+Bytes Read: 49670
+ Time Taken: 28.000000
+ HTTP: 1.000000
+Bytes Read: 49841
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 50012
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 50183
+ Time Taken: 114.000000
+ HTTP: 1.000000
+Bytes Read: 50354
+ Time Taken: 20.000000
+ HTTP: 1.000000
+Bytes Read: 50525
+ Time Taken: 179.000000
+ HTTP: 1.000000
+Bytes Read: 50696
+ Time Taken: 33.000000
+ HTTP: 1.000000
+Bytes Read: 50867
+ Time Taken: 25.000000
+ HTTP: 1.000000
+Bytes Read: 51038
+ Time Taken: 20.000000
+ HTTP: 1.000000
+Bytes Read: 51209
+ Time Taken: 20.000000
+ HTTP: 1.000000
+Bytes Read: 51380
+ Time Taken: 20.000000
+ HTTP: 1.000000
+Bytes Read: 51551
+ Time Taken: 20.000000
+ HTTP: 1.000000
+Bytes Read: 51722
+ Time Taken: 28.000000
+ HTTP: 1.000000
+Bytes Read: 51893
+ Time Taken: 20.000000
+ HTTP: 1.000000
+Bytes Read: 52064
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 52235
+ Time Taken: 22.000000
+ HTTP: 1.000000
+Bytes Read: 52406
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 52577
+ Time Taken: 20.000000
+ HTTP: 1.000000
+Bytes Read: 52748
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 52919
+ Time Taken: 20.000000
+ HTTP: 1.000000
+Bytes Read: 53090
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 53261
+ Time Taken: 20.000000
+ HTTP: 1.000000
+Bytes Read: 53432
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 53603
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 53774
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 53945
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 54116
+ Time Taken: 21.000000
+ HTTP: 1.000000
+Bytes Read: 54287
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 54458
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 54629
+ Time Taken: 29.000000
+ HTTP: 1.000000
+Bytes Read: 54800
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 54971
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 55142
+ Time Taken: 20.000000
+ HTTP: 1.000000
+Bytes Read: 55313
+ Time Taken: 219.000000
+ HTTP: 1.000000
+Bytes Read: 55484
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 55655
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 55826
+ Time Taken: 25.000000
+ HTTP: 1.000000
+Bytes Read: 55997
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 56168
+ Time Taken: 20.000000
+ HTTP: 1.000000
+Bytes Read: 56339
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 56510
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 56681
+ Time Taken: 20.000000
+ HTTP: 1.000000
+Bytes Read: 56852
+ Time Taken: 22.000000
+ HTTP: 1.000000
+Bytes Read: 57023
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 57194
+ Time Taken: 20.000000
+ HTTP: 1.000000
+Bytes Read: 57365
+ Time Taken: 21.000000
+ HTTP: 1.000000
+Bytes Read: 57536
+ Time Taken: 23.000000
+ HTTP: 1.000000
+Bytes Read: 57707
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 57878
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 58049
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 58220
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 58391
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 58562
+ Time Taken: 20.000000
+ HTTP: 1.000000
+Bytes Read: 58733
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 58904
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 59075
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 59246
+ Time Taken: 19.000000
+ HTTP: 1.000000
+Bytes Read: 59417
+ Time Taken: 19.000000
+ HTTP: 1.000000
